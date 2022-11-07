@@ -40,4 +40,7 @@ Mijn JS ziet er als volgt uit;
 Naar javascript heb ik lang moeten kijken, met javascript moest ik ervoor zorgen dat door te klikken op de button onder aan het scherm, de chat zou open en sluiten. 
 
 ## Bronnen
-Ik heb over het algemeen vooral MDN gebruikt, zodat ik de werking van bepaalde elementen begrijp. 
+Ik heb over het algemeen vooral MDN (https://developer.mozilla.org/en-US/) gebruikt, zodat ik de werking van bepaalde elementen begrijp. 
+Enkele andere bronnen die wel eens van toepassen zijn geweest zijn
+ - https://www.w3schools.com/
+ - https://fontawesome.com/
