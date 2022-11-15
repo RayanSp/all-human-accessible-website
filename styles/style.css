@@ -1,0 +1,121 @@
+* {
+    font-family: Montserrat;
+}
+
+:root {
+    --clr-green: #40ae9e;
+    --clr-darkgreen: #1d8a7a;
+}
+
+body {
+    margin: 0;
+    font-family: Montserrat;
+    background-size: cover; 
+    background-position: top center;
+}
+
+/* navbar */
+
+nav {
+    padding-top: 1em;
+    padding-left: 3em;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgb(241, 241, 241);
+    opacity: 100%;
+}
+
+.navbar img {
+    float:left;
+    padding-right: 20em;
+}
+
+.navbar a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Montserrat;
+    opacity: 100%;
+    transition: 0.2s ease-in-out;
+}
+
+.navbar a:hover {
+    background-color: var(--clr-green);
+    border-radius: 5%;
+}
+
+.viniminilogo {
+    width: 4em;
+    padding-left: 3em;
+    padding-bottom: 10px;
+}
+
+
+/* body */
+
+.nieuwemini {
+    text-align: center;
+    color: var(--clr-darkgreen);
+}
+
+.nieuweminiuitleg {
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* nieuwe mini aanmaken section */
+
+.form {
+    text-align: center;
+    display: inline-block;
+    width: 400px;
+    height: 430px;
+    border-radius: 5%;
+    background: #ffffff;
+    box-shadow: 0px 1px 20px 1px rgb(119, 119, 119);
+    margin-left: 525px;
+    margin-top: 35px;
+}
+
+.form h3 {
+    font-weight: bold;
+    color: var(--clr-darkgreen);
+}
+
+input {
+    display: inline-block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    padding: 20px;
+    width: 300px;
+    height: 32px;
+    border-color: black;
+    font-size: 16px;
+    transition: 0.2s ease-in-out;
+}
+
+input:hover {
+    border-color: var(--clr-darkgreen);
+}
+
+.miniaanmaken {
+    background-color: white;
+    color: var(--clr-green);
+    border-radius: 30px;
+    border-color: var(--clr-green);
+    height: 35px;
+    width: 135px;
+    cursor: pointer;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    transition: 0.2s ease-in-out;
+}
+
+.miniaanmaken:hover {
+    background-color: var(--clr-green);
+    color: white;
+}
