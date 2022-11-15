@@ -93,7 +93,7 @@ input {
     padding: 20px;
     width: 300px;
     height: 32px;
-    border-color: black;
+    border: 2px solid black;
     font-size: 16px;
     transition: 0.2s ease-in-out;
 }
@@ -104,9 +104,11 @@ input:hover {
 
 .miniaanmaken {
     background-color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
     color: var(--clr-green);
     border-radius: 30px;
-    border-color: var(--clr-green);
+    border: 2px solid #40ae9e;
     height: 35px;
     width: 135px;
     cursor: pointer;
