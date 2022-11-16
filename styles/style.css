@@ -105,12 +105,13 @@ input:hover {
 .miniaanmaken {
     background-color: white;
     font-weight: bold;
+    font-size: 16px;
     letter-spacing: 1px;
     color: var(--clr-green);
     border-radius: 30px;
     border: 2px solid #40ae9e;
-    height: 35px;
-    width: 135px;
+    height: 45px;
+    width: 150px;
     cursor: pointer;
     margin-bottom: 100px;
     margin-top: 20px;
