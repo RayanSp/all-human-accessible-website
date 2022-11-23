@@ -1,5 +1,5 @@
 * {
-    font-family: Montserrat;
+    Font-family: monsterrat, sans-serif;
 }
 
 :root {
@@ -9,7 +9,7 @@
 
 body {
     margin: 0;
-    font-family: Montserrat;
+    Font-family: monsterrat, sans-serif;
     background-size: cover; 
     background-position: top center;
 }
@@ -37,7 +37,7 @@ nav {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 16px;
-    font-family: Montserrat;
+    Font-family: monsterrat, sans-serif;
     opacity: 100%;
     transition: 0.2s ease-in-out;
 }
