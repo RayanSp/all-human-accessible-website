@@ -25,12 +25,12 @@ nav {
     opacity: 100%;
 }
 
-.navbar img {
+.viniminilogo {
     float:left;
     padding-right: 20em;
 }
 
-.navbar a {
+.voormini, .producten, .nieuws, .contact, .zoeken {
     float: left;
     color: black;
     text-align: center;
